@@ -71,6 +71,10 @@ We are a computational biology research group in [SIPBS](https://www.strath.ac.u
 - synthetic biology
 - protein sequence-structure-function analysis
 
+## Latest Publications
+
+{% include current_publications.html %}
+
 ## Key Collaborators
 
 - SIPBS
