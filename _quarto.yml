@@ -68,6 +68,10 @@ format:
     css: styles.css
     embed-resources: true
 
+outputs:
+  format: xml
+  default: true
+
 editor: source
 
 custom-callout:
