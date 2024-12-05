@@ -2,26 +2,12 @@
 title: "How to Get Good Feedback"
 description: "Asking for the advice that helps you the most"
 image: ../assets/images/good_feedback.jpg
-about:
-  template: marquee
-  links:
-    - text: "{{< fa brands bluesky >}} Bluesky"
-      href: https://bsky.app/profile/sipbscompbiol.bsky.social
-    - icon: github
-      text: Github
-      href: https://github.com/sipbs-compbiol
-    - icon: envelope
-      text: Email
-      href: mailto:leighton.pritchard@strath.ac.uk
-html:
-  anchor-sections: true
 categories:
   - Student
   - advice
   - studentships
   - PhD students
   - supervision]
-toc: true
 author: "Leighton Pritchard"
 date: 2022-06-01
 date-modified: 2024-12-05

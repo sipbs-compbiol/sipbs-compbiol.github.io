@@ -9,7 +9,6 @@ categories:
   - PhD students
   - job applications
   - supervision
-toc: true
 author: "Leighton Pritchard"
 date: 2022-06-01
 date-modified: 2024-12-05

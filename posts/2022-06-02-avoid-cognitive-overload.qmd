@@ -9,7 +9,6 @@ categories:
   - MSc students
   - Internships
   - supervision
-toc: true
 author: "Leighton Pritchard"
 date: 2022-06-02
 date-modified: 2024-12-05
