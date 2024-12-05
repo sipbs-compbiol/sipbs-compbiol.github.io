@@ -4,7 +4,7 @@ feed: true
 about:
   template: marquee
   links:
-    - text: "{{< fa brands bluesky >}} Bluesky"
+    - text: "{{< fa brands bluesky >}} BlueSky"
       href: https://bsky.app/profile/sipbscompbiol.bsky.social
     - icon: github
       text: Github

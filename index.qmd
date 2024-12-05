@@ -4,7 +4,7 @@ image: ./assets/images/sipbs_compbio.png
 about:
   template: trestles
   links:
-    - text: "{{< fa brands bluesky >}} Bluesky"
+    - text: "{{< fa brands bluesky >}} BlueSky"
       href: https://bsky.app/profile/sipbscompbiol.bsky.social
     - icon: github
       text: Github
