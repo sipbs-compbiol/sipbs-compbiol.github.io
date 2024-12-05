@@ -1,6 +1,5 @@
 ---
 title: "SIPBSCompBiol Blog"
-feed: true
 about:
   template: marquee
   links:
@@ -16,6 +15,7 @@ toc: true
 html:
   anchor-sections: true
 listing:
+  feed: true
   contents: posts
   sort: "date desc"
   type: default
