@@ -30,5 +30,7 @@ _site
 
 # R Project files
 .Rproj.user
+.Rhistory
 
+# Quarto files
 /.quarto/

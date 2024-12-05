@@ -15,7 +15,8 @@ toc: true
 html:
   anchor-sections: true
 listing:
-  feed: true
+  feed: 
+    type: full
   contents: posts
   sort: "date desc"
   type: default
