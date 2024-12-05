@@ -15,8 +15,6 @@ toc: true
 html:
   anchor-sections: true
 listing:
-  feed: 
-    type: full
   contents: posts
   sort: "date desc"
   type: default
@@ -25,6 +23,7 @@ listing:
   filter-ui: true
   fields: [image, date, title, author, reading-time, categories, description]
   image-placeholder: "/assets/images/sipbs_compbio.png"
+  feed: true
 page-layout: full
 title-block-banner: true
 ---
