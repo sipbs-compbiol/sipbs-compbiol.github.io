@@ -1,0 +1,91 @@
+---
+title: "SIPBS Computational Biology"
+image: ./assets/images/sipbs_compbio.png
+about:
+  template: trestles
+  links:
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/sipbscompbiol.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+---
+
+## SIPBSCompBiol
+
+We are a computational biology research group in [SIPBS](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/) (the Strathclyde Institute for Pharmacy and Biomedical Sciences) at the University of Strathclyde, Glasgow. We apply computational and mathematical approaches to better understand biology.
+
+Our main areas of research are in microbiology, human health, and plant health, We have experience and work across a number of areas, including:
+
+- genomics
+- systems biology
+- metabolic modelling
+- software development
+- biostatistics
+- phylogenetics and phylogenomics
+
+::: {.callout-publications collapse="true"}
+## Recent Publications
+
+```{=html}
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/sipbs-compbiol/sipbs-compbiol.github.io/refs/heads/quarto/references_recent.bib&jsonp=1&folding=1&hidemenu=true"></script>
+```
+
+For a more complete list, see [here](references.qmd).
+:::
+
+::: {.callout-scientist-blue collapse="true"}
+## Ongoing Collaborations
+
+### SIPBS
+
+- Prof Paul Hoskisson
+- Dr Arnaud Javelle
+- Prof Dan Walker
+
+### UK
+
+- Dr Carrie Brady (University of the West of England)
+- Prof David Cooke (James Hutton Institute)
+- Dr Tracey Gloster (University of St Andrews)
+- Dr Ashleigh Holmes (James Hutton Institute)
+- Dr Sonia Humphris (James Hutton Institute)
+- Dr Doug Orr (University of Lancaster)
+- Prof Pieter van West (University of Aberdeen)
+
+### International
+
+- Prof C Titus Brown (UC Davis)
+- Prof Lenwood Heath (Virginia Tech)
+- Prof Boris Vinatzer (Virginia Tech)
+:::
+
+
+## Opportunities with us
+
+::: {.callout-scientist-purple}
+## Open PhD Position (closing date: Monday 6th January, 2025)
+
+We have a NorthWestBio BBSRC-funded PhD position available with collaborators at the James Hutton Institute. Please follow the link below to find out more and apply.
+
+- [PhD opportunity: Mixed species infections](https://www.gla.ac.uk/postgraduate/doctoraltraining/northwestbio/projects/pathogens/futurethreatstocropprotectiontheroleofmixedpectobacteriuminfectionsindiseaserisk/)
+:::
+
+::: {.callout-scientist-peach}
+## Summer Internships and Placements
+
+We have space to accommodate students for funded summer internships and placements. If you are interested in joining us to gain some computational biology, data analysis, or bioinformatics research experience, please contact Leighton by [email]({{< var admin.mailto >}}) to arrange a short chat.
+
+**NOTE: we do not offer unfunded internships** as we believe people should be paid for their work. If you would like to arrange a chat, please contact Leighton as early as possible to give the best chance of acquiring funding.
+
+Please see [this page](https://sipbs-compbiol.github.io/sipbs-internships/external_funding.html) for a list of some funding sources.
+:::
+
+## How do I edit this website?
+
+Anyone in the group can edit or add to these pages. To do so, please fork this repository from [https://github.com/sipbs-compbiol/sipbs-compbiol.github.io](https://github.com/sipbs-compbiol/sipbs-compbiol.github.io), make your changes, and issue a pull request against the original repository, tagging [Leighton]({{< var admin.github >}}) as a reviewer. Most requests will be merged without question, but the time to changes going live may vary.
+
+If you are not in the group but would like to suggest a change to these pages, please do so via the [GitHub Issues page]({{< var github.issues >}}).

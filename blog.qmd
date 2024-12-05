@@ -1,0 +1,30 @@
+---
+title: "SIPBSCompBiol Blog"
+feed: true
+about:
+  template: marquee
+  links:
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/sipbscompbiol.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+toc: true
+html:
+  anchor-sections: true
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, author, reading-time, categories, description]
+  image-placeholder: "/assets/images/sipbs_compbio.png"
+page-layout: full
+title-block-banner: true
+---
+

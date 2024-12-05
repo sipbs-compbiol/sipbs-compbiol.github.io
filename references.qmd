@@ -1,0 +1,31 @@
+---
+title: "Group Publications"
+description: |
+ Publications from the SIPBSCompBiol group
+about:
+  template: marquee
+  links:
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/sipbscompbiol.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+toc: true
+html:
+  anchor-sections: true
+---
+
+::: {.callout-warning}
+## Scope
+
+This page lists publications involving members of SIPBSCompBiol since it began in September 2019.
+
+Individual group members may have many publications dating from before or after their time with the group.
+:::
+
+```{=html}
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/sipbs-compbiol/sipbs-compbiol.github.io/refs/heads/quarto/references.bib&jsonp=1&folding=1"></script>
+```
