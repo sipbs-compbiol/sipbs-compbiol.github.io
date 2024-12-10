@@ -22,7 +22,7 @@ html:
 
 - [Dr Leighton Pritchard](bios/leighton.qmd)
 - Dr Peter Cock (PDRA 2024-)
-- Angelika Kiepas (PhD 2020-2024, with Prof Paul Hoskisson; PDRA 2024-)
+- Dr Angelika Kiepas (PhD 2020-2024, with Prof Paul Hoskisson; PDRA 2024-)
 
 ## Current Joint Group Members
 
