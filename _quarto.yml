@@ -52,7 +52,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "Funded PhD opportunity to study mixed bacterial infection in potato: [APPLY HERE](https://www.gla.ac.uk/postgraduate/doctoraltraining/northwestbio/projects/pathogens/futurethreatstocropprotectiontheroleofmixedpectobacteriuminfectionsindiseaserisk/) - Closing date Monday 6th January 2025"
+    content: "See our recent publication in _Microbial Genomics_ on the accuracy 16S bacterial classification in _Streptomyces_: [doi:10.1099/mgen.0.001287](https://doi.org/10.1099/mgen.0.001287)"
     type: info
     position: below-navbar
     background: "blueviolet"
