@@ -66,14 +66,6 @@ For a more complete list, see [here](references.qmd).
 
 ## Opportunities with us
 
-::: {.callout-scientist-purple}
-## Open PhD Position (closing date: Monday 6th January, 2025)
-
-We have a NorthWestBio BBSRC-funded PhD position available with collaborators at the James Hutton Institute. Please follow the link below to find out more and apply.
-
-- [PhD opportunity: Mixed species infections](https://www.gla.ac.uk/postgraduate/doctoraltraining/northwestbio/projects/pathogens/futurethreatstocropprotectiontheroleofmixedpectobacteriuminfectionsindiseaserisk/)
-:::
-
 ::: {.callout-scientist-peach}
 ## Summer Internships and Placements
 
