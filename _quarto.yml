@@ -52,7 +52,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "See our recent publication in _Microbial Genomics_ on the accuracy 16S bacterial classification in _Streptomyces_: [doi:10.1099/mgen.0.001287](https://doi.org/10.1099/mgen.0.001287)"
+    content: "See our recent publication in _Plant Pathology_ on the prevalence of _Phytophthora_ in British plant nurseries: [doi:10.1111/ppa.14044](https://doi.org/10.1111/ppa.14044)"
     type: info
     position: below-navbar
     background: "blueviolet"
